@@ -1,0 +1,1 @@
+input	output	probabilityjete	jte	0.38jete	jet	0.02jete	jt	0jete	jete	0.6jeme	jme	0.07jeme	jem	0.8jeme	jm	0jeme	jeme	0.13

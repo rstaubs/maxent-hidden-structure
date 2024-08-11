@@ -1,0 +1,1 @@
+input	output	probabilitypaper	piKAT	0paper	PIkat	1paper	paper	0table	TIkat	0table	tiKAT	1table	table	0
