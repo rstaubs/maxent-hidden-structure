@@ -1,0 +1,5 @@
+input	output	probability	Iamb	Trochee	*StressHi
+kata	k&aacute;ta	1	1	0	0
+kata	kat&aacute;	0	0	1	0
+pika	p&iacute;ka	1	1	0	1
+pika	pik&aacute;	0	0	1	0
